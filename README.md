@@ -1,77 +1,86 @@
-# Min Khant Thein
+<h1 align="center">👋 Hi, I'm <span style="color:#0078d7;">Min Khant Thein</span>!</h1>
 
-![Profile Photo](image2)
-
----
-
-## 🚀 Networking & System Engineer
-
----
-
-### 📍 Contact Information
-
-- **Location:** Yangon, Myanmar
-- **LinkedIn:** Min Khant Thein
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Networking%20%26%20System%20Engineer-blue" alt="Role Badge"/>
+  <img src="https://img.shields.io/badge/Location-Yangon-%23ffc107" alt="Location Badge"/>
+  <img src="https://img.shields.io/badge/Experience-2%20Years-green" alt="Experience Badge"/>
+</p>
 
 ---
 
-### 🌟 Professional Summary
+## 🚀 About Me
 
-Energetic and detail-oriented Networking & System Engineer with over 2 years of expertise in IT infrastructure, networking, and server systems. Adept at designing, implementing, and maintaining robust network solutions. Known for strong problem-solving abilities, continuous learning, and excellent teamwork.
-
----
-
-### 💼 Work Experience
-
-**IT Engineer**  
-_Sweety Home, Yangon_ | Present  
-- Manage and maintain company-wide IT infrastructure, including network systems and Windows servers.  
-- Troubleshoot complex networking issues and provide timely technical support.  
-- Oversee server creation, network maintenance, and cable management.
-
-**IT Engineer**  
-_Wise and Wealth Co. Ltd., Nay Pyi Taw_ | Previous  
-- Delivered IT support focusing on networking and server challenges.  
-- Assisted with infrastructure upgrades and daily system operations.
+🌐 **Networking & System Engineer** with strong experience in IT infrastructure, networking, and server management.  
+🏢 Currently working at <b>Sweety Home, Yangon</b> as an IT Engineer.  
+💼 Started my career at <b>Wise and Wealth Co. Ltd., Nay Pyi Taw</b>.
 
 ---
 
-### 🧰 Skills
+## 🛠️ Skills & Expertise
 
-- **Network Technologies:** CCNA, Windows Server, OSI Model (Physical/Data Link/Network Layers)
-- **Tools:** GitHub, GitLab
-- **Professional:** Problem-solving, Management, Teamwork, Communication (English & Myanmar)
-- **Technical:** Network diagram design, Infrastructure planning
+<p>
+  <img src="https://img.shields.io/badge/CCNA-blue?logo=cisco" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078d7?logo=windows" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Networking-00599C?logo=networkx" alt="Networking"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab" alt="GitLab"/>
+</p>
 
----
-
-### 🎓 Education & Certifications
-
-- Basic Education Complete
-- **CCNA Certified**
-- Windows Server Training
-- Self-taught: GitHub, GitLab, Networking, IT
-
----
-
-### 🛠️ Key Projects
-
-- **Infrastructure Building:** Designed and implemented secure and scalable IT infrastructures.
-- **Server Creation:** Set up and maintained Windows and network servers for organizations.
-- **Network Maintenance:** Performed routine maintenance and troubleshooting for network stability.
-- **Cable Management:** Organized and optimized cabling for efficient network performance.
+- Problem-solving & learning skills  
+- Communication (English & Myanmar)  
+- Network diagram drawing  
+- Management & teamwork
 
 ---
 
-### 🏅 Achievements
+## 🏢 Experience
 
-- Successfully resolved critical networking incidents under tight deadlines.
-- Recognized for clear and effective communication in cross-functional teams.
-- Consistently praised for willingness to learn and adapt to new technologies.
+- 🏆 **IT Engineer**, _Sweety Home, Yangon_ (Present)
+- 🏅 **IT Engineer**, _Wise and Wealth Co. Ltd., Nay Pyi Taw_ (First Job)
+- 💡 2+ years in:
+  - Networking issue resolution
+  - Server & infrastructure management
+  - Windows Server admin
 
 ---
 
-### 💬 Motto
+## 🖥️ Projects
+
+- ⚙️ **Infrastructure Building**
+- 🖧 **Server Creation**
+- 🛠️ **Network Maintenance & Cable Management**
+
+---
+
+## 🎓 Education & Certifications
+
+- ✔️ Basic Education Complete
+- 🏅 **CCNA Certified**
+- 🖥️ Windows Server Training
+- 🤓 Self-learner: GitHub, GitLab, Networking, IT
+
+---
+
+## 🌍 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/min-khant-thein-8a9403267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Min%20Khant%20Thein-blue?logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 💬 Motto
+
+> _"Today is not know one thing, that is not still tomorrow."_  
+> **Professional Life is more than happiness.**
+
+---
+
+<p align="center">
+  🖐️ <i>Thanks for visiting my profile!</i>
+</p>
 
 > "Today is not know one thing, that is not still tomorrow."  
 > Professional Life is more than happiness.
