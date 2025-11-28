@@ -36,7 +36,7 @@
 ## 🏢 Experience
 
 - 🏆 **IT Engineer**, _Sweety Home, Yangon_ (Present)
-- 🏅 **IT Engineer**, _Wise and Wealth Co. Ltd., Nay Pyi Taw_ (First Job)
+- 🏅 **Network Engineer**, _Wise and Wealth Co. Ltd., Nay Pyi Taw_ (First Job)
 - 💡 2+ years in:
   - Networking issue resolution
   - Server & infrastructure management
